@@ -7,8 +7,8 @@
 
 ## Overview  
 
-This WPF-based chatbot is the final version of the Cybersecurity Awareness project.  
-It features a full graphical interface with:
+The completed Cybersecurity Awareness project is this WPF-based chatbot.
+ It has a comprehensive graphical user interface that includes:
 
 -  Interactive Chatbot (with NLP + memory)
 -  Task Assistant with Reminders
