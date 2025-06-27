@@ -66,6 +66,11 @@ It features a full graphical interface with:
 ---
 
 ##  Setup Instructions
+- Open Visual Studios
+- Create New project
+- Type WPF Application (C#)
+- Click Next 
+- Start coding 
 
 ###  Prerequisites
 
@@ -88,7 +93,7 @@ git clone https://github.com/Byronxvi/cybersecurity-chatbot-part3.git
 - Extract the files
 
 
-## ⚙️ Run the Application**
+##  Run the Application**
 1. Open CyberSecAwarenessBot.sln in Visual Studio
 2. In Solution Explorer, right-click CyberSecAwarenessBotGUI → Set as Startup Project
 3. Press Ctrl + F5 to run
